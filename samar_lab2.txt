@@ -1,2 +1,2 @@
-Hello from Samar and Baru!
+Hello from Samar and Baru, This is conflict practice!
 This is my Lab 2 branch practice file.
