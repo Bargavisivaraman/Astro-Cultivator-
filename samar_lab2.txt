@@ -1,2 +1,2 @@
-Hello from Samar!
+Hello from Samar and Baru!
 This is my Lab 2 branch practice file.
